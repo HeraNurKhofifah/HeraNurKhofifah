@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/heranurkhofifah">
+  <a href="[www.linkedin.com/in/heranurkhofifah](https://www.linkedin.com/in/heranurkhofifah)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
