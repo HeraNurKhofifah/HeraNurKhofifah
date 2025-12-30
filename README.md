@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hera-nur-khofifah">
+  <a href="www.linkedin.com/in/heranurkhofifah">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   &nbsp;
@@ -59,7 +59,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
   <a href="https://github.com/HeraNurKhofifah">
-    <img src="https://github-readme-stats.vercel.app/api?username=HeraNurKhofifah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=F2C94C&icon_color=ffffff" height="160" alt="Hera's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HeraNurKhofifah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2C94C&icon_color=ffffff" height="160" alt="Hera's Stats" />
   </a>
   <a href="https://github.com/HeraNurKhofifah">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeraNurKhofifah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2C94C" height="160" alt="Hera's Top Languages" />
