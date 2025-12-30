@@ -56,15 +56,7 @@
 
 <br />
 
-<h2 align="center">📊 GitHub Statistics</h2>
-<div align="center">
-  <a href="https://github.com/HeraNurKhofifah">
-    <img src="https://github-readme-stats.vercel.app/api?username=HeraNurKhofifah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2C94C&icon_color=ffffff" height="160" alt="Hera's Stats" />
-  </a>
-  <a href="https://github.com/HeraNurKhofifah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeraNurKhofifah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2C94C" height="160" alt="Hera's Top Languages" />
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F2C94C,243B55,141E30&height=100&section=footer" width="100%" style="display: block; width: 100%;" />
